@@ -1,4 +1,3 @@
-Logic Design with HDL Assignment.
 FIFO - First In First Out is one of the most popular logic circuits in digital systems. It works as a
 buffer memory, where the data which is written to first will be the data read out first . The
 implement logic is often based on ring buffer principle.
